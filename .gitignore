@@ -25,3 +25,4 @@ dist-ssr
 
 # For key to use packing and signing extension
 .pem
+.publish
